@@ -1,4 +1,4 @@
-# todo-course
+# todo
 
 ## Project setup
 ```
